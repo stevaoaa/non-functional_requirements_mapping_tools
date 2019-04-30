@@ -1,0 +1,439 @@
+(In)Secure Android Debugging: Security analysis and lessons learned,hor      = {Opasiak,2019,doubt
+`Trust but verify' - five approaches to ensure safe medical apps,:000361707400001,2015,no
+6 - Mobile Security and Privacy,NG2006335,2006,doubt
+A Case Study of Automating User Experience-Oriented Performance Testing on Smartphones,9717,2013,yes
+A certified reference validation mechanism for the permission model of android,arte2018271,2018,no
+A comparative evaluation of unit testing techniques on a mobile platform,li2012263,2012,no
+A comparative study of bug classification algorithms,wani2014111,2014,no
+A Comparative Study of Web Application Testing and Mobile Application Testing,:000357791500048,2015,doubt
+A comparison of mobile form controls for different tasks,IZ201997,2019,no
+A Comprehensive Mobile Application Development and Testing Lifecycle,:000380447100009,2014,no
+A conceptual framework for the comparison of fully automated GUI testing techniques,lfitano201650,2016,yes
+A Context-aware Approach for Dynamic GUI Testing of Android Applications,:000380584300038,2015,yes
+A context-aware collaborative model for smartphone energy efficiency over 5G wireless networks,IN2017352,2017,yes
+A context-sensitive offloading system using machine-learning classification algorithms for mobile cloud environment,IOR2019503,2019,doubt
+A crawling approach of hierarchical GUI model generation for android applications,20181613,2018,yes
+A formal android permission model based on the B method,2017381,2017,yes
+A formal approach for detection of security flaws in the android permission system,:000441910000003,2018,yes
+A Framework to Model and Analyze the Performability of Mobile Software Systems,cchi:2004:FMA:974044.974082,2004,doubt
+A Framework to Test Reliability and Security of Wi-Fi Device,:000366592100215,2014,no
+A friend or a foe? Detecting malware using memory and CPU features,osevic201673,2016,yes
+A generic energy optimization framework for heterogeneous platforms using scaling models,TA201674,2016,doubt
+A GUI Crawling-Based Technique for Android Mobile Application Testing,lfitano2011,2011,yes
+A hybrid approach of mobile malware detection in Android,G201722,2017,yes
+A machine learning based approach to detect malicious android apps using discriminant system calls,19333,2019,yes
+A Mechanism of Reliable and Standalone Script Generator on Android,9083,2017,yes
+A Methodology for Relating Software Structure with Energy Consumption,:000425267700012,2017,yes
+A mobile malware detection method using behavior features in network traffic,G2019,2019,yes
+A multi-level usability evaluation of mobile health applications: A case study,201879,2018,doubt
+A neural network approach to category validation of Android applications,rbanzadeh2013740,2013,yes
+A Novel Approach to Detect Android Malware,IN2015407,2015,yes
+A novel pattern recognition system for detecting Android malware by analyzing suspicious boot sequences,AL2018198,2018,no
+A Novel Security Framework for Managing Android Permissions Using Blockchain Technology,:000429229200003,2018,doubt
+A Permission verification approach for android mobile applications,eiatakis2015192,2015,yes
+A practical approach to manage applications and prevent malware spreading in mobile environment,:000382964400194,2014,no
+A pragmatic android malware detection procedure,UMBO2017689,2017,yes
+A real-time power monitoring and energy-efficient network/interface selection tool for android smartphones,SUZ2019107,2019,no
+"A Review on mobile application energy profiling: Taxonomy, state-of-the-art, and open research issues",AD201542,2015,yes
+A runtime-testing method for integer overflow detection based on metamorphic relations,20162349,2016,yes
+"A Scalable, Flow-and-Context-Sensitive Taint Analysis of Android Applications.",I2018,2018,yes
+A security framework for mHealth apps on Android platform,SAIN2018191,2018,doubt
+A standard for developing secure mobile applications,2014524,2014,no
+A state machine for database non-functional testing,ra2014378,2014,yes
+A static technique for detecting input validation vulnerabilities in Android apps,g2017,2017,yes
+A strategy to perform coverage testing of mobile applications,amaro2006118,2006,yes
+A structure similarity-based approach to malicious android app detection,2015,2015,yes
+A study on the security technology of enterprise mobile information system,g2009385,2009,no
+A survey of Android exploits in the wild,G201871,2018,no
+A systematic mapping study of mobile application testing techniques,n2016334,2016,no
+A Top-Down Design Approach for an Automated Testing Framework,:000375991300004,2015,yes
+A Usability Testing Experiment For A Localized Weight Loss Mobile Application,SAR2012839,2012,no
+Adaptive random testing of mobile application,g2010,2010,yes
+Adaptive Random Testing with Combinatorial Input Domain,:000333631200001,2014,no
+ADAutomation: An Activity Diagram Based Automated GUI Testing Framework for Smartphone Applications,5417,2014,yes
+Addressing mobile usability and elderly users: Validating contextualized heuristics,imaSalgado2017379,2017,doubt
+Advancing Energy Testing of Mobile Applications,barvand:2017:AET:3098344.3098511,2017,doubt
+"Affective-ready, contextual and automated usability test for mobile software",ho2016638,2016,doubt
+AGRippin: A Novel Search Based Testing Technique for Android Applications,lfitano:2015:ANS:2804345.2804348,2015,doubt
+An adaptive and configurable protection framework against android privilege escalation threats,019210,2019,doubt
+An analysis on sensitive data passive leakage in Android applications,9807,2015,yes
+An android malware detection framework-based on permissions and intents,ma2016618,2016,yes
+An Android malware detection method based on AndroidManifest file,016239,2016,yes
+An Android System Vulnerability Risk Evaluation Method for Heap Overflow,0477,2016,doubt
+An Android-based approach for automatic unit test,6789,2014,no
+An Android-based Trojan Spyware to Study the NotificationListener Service Vulnerability,ALOLA2016465,2016,no
+An Approach for Evaluating and Improving the Test Processes of Mobile Application Developments,L201633,2016,no
+An Approach for iOS Applications' Testing,:000429846000005,2018,no
+An automated testing approach for inter-application security in android,20148,2014,yes
+An automated testing framework for testing Android mobile applications in the cloud,:000380467200158,2014,yes
+An Automated Testing Platform for Mobile Applications,016159,2016,no
+An automatically vetting mechanism for SSL error-handling vulnerability in android hybrid Web apps,2018127,2018,yes
+An empirical analysis of android apps bug and automated testing approach for Android apps,20161,2016,no
+An empirical framework for defect prediction using machine learning techniques with Android software,hotra20161034,2016,no
+An Empirical Study on Android-Related Vulnerabilities,2350,2017,doubt
+An environment for automated measurement of energy consumed by mobile and embedded computing devices,AGARYAN2016103,2016,no
+An in-depth analysis of Android malware using hybrid techniques,AKUS201825,2018,yes
+An Industrial Survey and Assessment on Free Mobile Testing Tools,:000383373300026,2016,no
+An input-centric performance model for computational offloading of mobile applications,n20181,2018,yes
+An integrated static detection and analysis framework for android,G201615,2016,doubt
+An Integrated Test Automation Framework for Testing on Heterogeneous Mobile Platforms,0017,2011,yes
+An interpolation-based method for the verification of security protocols,chetto2017463,2017,doubt
+Analysing data security requirements of android mobile banking application,tnagar201830,2018,yes
+"Analysis and Evaluation of SafeDroid v2.0, a Framework for Detecting Malicious Android Applications",yriou2018,2018,doubt
+Analysis of Malicious Behavior of Android Apps,GH2016215,2016,no
+Analyzing GUI Running Fluency for Android Apps,ng:2016:AGR:2940353.2940356,2016,no
+Andro-Dumpsys: Anti-malware system based on the similarity of malware creator and malware centric information,G2016125,2016,no
+Andro-Simnet: Android Malware Family Classification using Social Network Analysis,4216,2018,yes
+AndroDialysis: Analysis of Android Intent Effectiveness in Malware Detection,ZOLLAH2017121,2017,yes
+Android application classification and anomaly detection with graph-based permission patterns,OLOVA201762,2017,yes
+Android application development and testability,ch201437,2014,yes
+Android Applications Repackaging Detection Techniques for Smartphone Devices,TOGI201626,2016,no
+Android architecture: attacking the weak points,SFIELDDEVINE20125,2012,doubt
+Android based malware detection using a multifeature collaborative decision fusion approach,EN2015905,2015,yes
+Android Driver Vulnerability Discovery Based on Black-Box Genetic Algorithm,0171031,2017,yes
+Android forensics: Automated data collection and reporting from a mobile device,VER2013S12,2013,doubt
+Android inter-app communication threats and detection techniques,NDARI2017392,2017,doubt
+Android malware classification base on application category using static code analysis,nordin20186853,2018,yes
+"Android malware detection technology based on improved Na{\""{i}}ve Bayesian",01643,2016,yes
+Android malware detection through hybrid features fusion and ensemble classifiers: the AndroPyTool framework and the OmniDroid dataset,TIN2018,2018,yes
+Android malware detection with unbiased confidence guarantees,ADOPOULOS20183,2018,yes
+Android platform modeling and android app verification in the ACL2 theorem prover,th2016183,2016,no
+Android resource usage risk assessment using hidden Markov model and online learning,HIDI201790,2017,yes
+"Android single sign-on security: Issues, taxonomy and directions",2018402,2018,doubt
+Android under attack,LEMS201313,2013,no
+Android-SRV: Scenario-Based Runtime Verification of Android Applications,ng2018239,2018,doubt
+AndroidFuzzer: Detecting android vulnerabilities in fuzzing cloud,0153859,2015,no
+AndroSimilar: Robust signature for detecting variants of Android malware,UKI201566,2015,yes
+AndroTaint: An efficient android malware detection framework using dynamic taint analysis,6989,2017,yes
+Anti-Hijack: Runtime Detection of Malware Initiated Hijacking in Android,NKAR2016587,2016,yes
+APK Auditor: Permission-based Android malware detection system,HA20151,2015,yes
+AppCheck: A Crowdsourced Testing Service for Android Applications,017253,2017,yes
+Application Security Models for Mobile Agent Systems,ONALD200643,2006,doubt
+Applying Security Assurance Techniques to a Mobile Phone Application: An Initial Approach,4462,2011,yes
+Appwrapping Providing fine-grained security policy enforcement per method unit in android,201736,2017,doubt
+"APSET, an Android aPplication SEcurity Testing tool for detecting intent-based vulnerabilities",va2015201,2015,yes
+Are mobile botnets a possible threat? The case of SlowBot Net,INA2016268,2016,no
+ASF: Improving android security with layered structure instrumentation,ng2013147,2013,no
+Automated detection and repair of incompatible uses of runtime permissions in Android apps,hara201867,2018,doubt
+Automated GUI Testing of Android Apps: From Research to Practice,an:2017:AGT:3098344.3098518,2017,doubt
+Automated identification of callbacks in Android framework using machine learning techniques,:000440521100005,2018,no
+Automated identification of installed malicious Android applications,DO2013S96,2013,doubt
+Automated Mobile UI Test Fragility: An Exploratory Assessment Study on Android,pola:2016:AMU:2945404.2945406,2016,doubt
+Automated Model-Based Android GUI Testing using Multi-level GUI Comparison Criteria,:000390237000026,2016,doubt
+Automated parallel GUI testing as a service for mobile applications,2018,2018,no
+Automated poisoning attacks and defenses in malware detection systems: An adversarial machine learning approach,N2018326,2018,yes
+Automated Security Configuration Checklist for Apple iOS Devices Using SCAP v1.2,tunji2018,2018,no
+Automated Software Testing Based on Hierarchical State Transition Matrix for Smart TV,:000401431300122,2017,yes
+Automated support to capture and validate security requirements for mobile apps,op201697,2016,yes
+Automated test input generation for android: Towards getting there in an industrial case,ng2017253,2017,yes
+Automated testing environment and assessment of assignments for Android MOOC,eja201880,2018,no
+Automated testing tools for mobile applications,d2014,2014,yes
+Automated usability testing for mobile applications,th2014149,2014,yes
+Automated verification of security policies in mobile code,ghin200737,2007,yes
+Automatic acceptance test case generation from essential use cases,alrudin2014246,2014,doubt
+Automatic security verification of mobile app configurations,:000419409200041,2018,yes
+Automating GUI testing for android applications,01177,2011,yes
+Automating UI Tests for Mobile Applications with Formal Gesture Descriptions,enius:2014:AUT:2628363.2628391,2014,yes
+BehaveSense: Continuous authentication for security-sensitive mobile apps using behavioral biometrics,G20199,2019,doubt
+Behavioral malware detection approaches for Android,n2016,2016,doubt
+Best practices in mobile security,CKE20169,2016,no
+"Breaking into the vault: Privacy, security and forensic analysis of Android vault applications",NG2017516,2017,doubt
+Bridging mobile security gaps,ULOV20165,2016,no
+Building a Model-Based GUI Test Automation System for Mobile Applications,20161605,2016,yes
+CANDYMAN: Classifying Android malware families by modelling dynamic traces with Markov chains,TIN2018121,2018,yes
+CATE: Concolic Android Testing Using Java PathFinder for Android Applications,fee2017213,2017,no
+Categorizing Configuration Parameters of Smartphones for Energy Performance Testing,k:2014:CCP:2593501.2593504,2014,doubt
+CDRep: Automatic repair of cryptographic misuses in android applications,016711,2016,no
+CDroid: practically implementation a formal-analyzed CIFC model on Android,018231,2018,no
+Chapter 10 - Exploring Mobile Data Security with Energy Awareness,NG2017203,2017,doubt
+"Chapter 11 - Effective Security Assessment of Mobile Apps with MAVeriC: Design, Implementation, and Integration of a Unified Analysis Environment for Mobile Apps",TA2017217,2017,doubt
+Chapter 25 - Security Management Systems,MENING2017421,2017,no
+Chapter 6 - Trends in Model-based GUI Testing,T2012183,2012,yes
+Chapter 7 - On Discovering Vulnerabilities in Android Applications,017155,2017,yes
+Characterizing Android apps' behavior for effective detection of malapps at large scale,G201730,2017,yes
+Characterizing malicious Android apps by mining topic-specific data flow signatures,G201727,2017,yes
+CiD: Automating the Detection of API-related Compatibility Issues in Android Apps,2018:CAD:3213846.3213857,2018,doubt
+Circumventing iOS security mechanisms for APT forensic investigations: A security taxonomy for cloud apps,AZIO2018247,2018,no
+Classifying Android Malware with Dynamic Behavior Dependency Graphs,6970,2016,no
+Classifying obstructive sleep apnea using smartphones,ARDINI2014251,2014,no
+Closed-Loop Quantitative Verification of Rate-Adaptive Pacemakers,letti:2018:CQV:3236466.3152767,2018,no
+"Cloud-Based Mobile App Testing Framework: Architecture, Implementation and Execution",as:2016:CMA:2993288.2993301,2016,doubt
+"Cloudlet deployment in local wireless networks: Motivation, architectures, applications, and open challenges",UKAT201618,2016,no
+Coding-based cooperative caching in on-demand data broadcast environments,017138,2017,no
+Collaborative verification of information flow for a high-assurance app store,st20141092,2014,no
+Comparison of bronchodilator response in patients with asthma and healthy subjects using spirometry and oscillometry,R2011317,2011,no
+Compatibility testing service for mobile applications,ng2015179,2015,yes
+Competitive dynamics in electronic networks: A model and the case of interorganizational systems,:000246043400002,2007,no
+Compositional verification of application-level security properties,awan201375,2013,yes
+Crowdsourced Testing Services for Mobile Apps,ng201775,2017,no
+CrowdSourcing Based Online Petitioning System for Pothole Detection Using Android Platform,GO2016316,2016,no
+Data vulnerability detection by security testing for Android applications,va2013,2013,yes
+Deep Convolutional Neural Network on iOS mobile devices (Invited Paper),n2016130,2016,no
+Delivering secure applications on commercial mobile devices: The case for bare metal hypervisors,eth201133,2011,doubt
+Detecting Android Malware Based on Extreme Learning Machine,8366,2017,yes
+Detecting Android Malware Using Sequences of System Calls,fora:2015:DAM:2804345.2804349,2015,doubt
+Detecting Antipatterns in Android Apps,ht:2015:DAA:2825041.2825078,2015,no
+Detecting Display Energy Hotspots in Android Apps,2585,2015,yes
+Detecting Energy Bugs and Hotspots in Mobile Apps,:000452049800051,2014,yes
+Detecting malicious behaviors in repackaged android apps with loosely-coupled payloads filtering scheme,ng2015454,2015,yes
+Detecting malware across operating systems,NGE201511,2015,doubt
+Detecting mobile application malicious behaviors based on data flow of source code,n20141,2014,yes
+Detecting mobile malware threats to homeland security through static analysis,201443,2014,yes
+Detecting repurposing and over-collection in multi-party privacy requirements specifications,0419,2015,no
+Detection of Energy Inefficiencies in Android Wear Watch Faces,ng:2018:DEI:3236024.3236073,2018,doubt
+Detection of Intent-Based Vulnerabilities in Android Applications,va2013397,2013,yes
+Detection of malicious applications on android OS,erbo2011138,2011,yes
+Detection of repackaged mobile applications through a collaborative approach,:000358163500008,2015,no
+Developing mobile 2D barcode/RFID-based maintenance management system,2014110,2014,no
+Diagnosability verification with Petri net unfoldings,alinski201049,2010,doubt
+DPCM-AQB speech codecs employing autocorrelation based vector quantizers for mobile applications,GIZEVCI199169,1991,no
+DroidDet: Effective and robust detection of android malware using static analysis along with rotation forest model,2018638,2018,yes
+DroidInjector: A process injection-based dynamic tracking system for runtime behaviors of Android applications,2017224,2017,yes
+DroidNative: Automating and optimizing detection of Android native code malware variants,M2017230,2017,yes
+Droidsentry: Efficient Code Integrity and Control Flow Verification on TrustZone Devices,iu2017156,2017,doubt
+Duet: Library Integrity Verification for Android Applications,2014:DLI:2627393.2627404,2014,doubt
+Dynamic detection of inter-application communication vulnerabilities in android,2015118,2015,doubt
+E-SSL: An SSL security-enhanced method for bypassing MITM attacks in mobile internet,o2017101,2017,yes
+Effective detection of android malware based on the usage of data flow APIs and machine learning,01617,2016,yes
+Effects of interface design factors on affective responses and quality evaluations in mobile applications,NDARI2017525,2017,doubt
+EHBDroid: Beyond GUI Testing for Android Applications,:000417469700006,2017,yes
+Empirical assessment of machine learning-based malware detectors for Android: Measuring the gap between in-the-lab and in-the-wild validation scenarios,ix2016183,2016,no
+Energy-aware network/interface selection and handover application for android-based mobile devices,SUZ201717,2017,doubt
+Energy-aware Test-suite Minimization for Android Apps,barvand:2016:ETM:2931037.2931067,2016,doubt
+Energy-efficient automatic location-triggered applications on smartphones,201429,2014,yes
+Energy-efficient multisite offloading policy using Markov decision process for mobile cloud computing,EFE201675,2016,no
+EnergyPatch: Repairing Resource Leaks to Improve Energy-Efficiency of Android Apps,erjee2018470,2018,yes
+Ensuring Android Execution Containers with Formal Methods,3090,2018,doubt
+EnTrack: A System Facility for Analyzing Energy Consumption of Android System Services,:2015:ESF:2750858.2807531,2015,doubt
+ErgoMobile: A software to support usability evaluations in mobile devices using observation techniques,eti2017363,2017,doubt
+Evaluating Convolutional Neural Network for Effective Mobile Malware Detection,:000418466000250,2017,yes
+Evaluating Features and Effectiveness of Secure QR Code Scanners,heria201840,2017,no
+Evaluating the Model-Based Testing Approach in the Context of Mobile Applications,LEVAFARTO20153,2015,no
+Evaluating the quality of test data under the influence of vigilance parameter in flexfis,9308,2012,no
+Evolutionary trends of digital content in mobile applications,:000368296000010,2015,no
+Facilitating professionals' work-based learning with context-aware mobile system,NG20163,2016,no
+Farm and environment information bidirectional acquisition system with individual tree identification using smartphones for orchard precision management,N2015101,2015,no
+Feasibility analysis and proof of concept for thermoelectric energy harvesting in mobile computers,:000318242100025,2013,no
+Features and usability assessment of a patient-centered mobile application (HeartMapp) for self-management of heart failure,ILINGAM2016156,2016,no
+Finding Resume and Restart Errors in Android Applications,:000393581000050,2016,no
+Flexible and secure service discovery in ubiquitous computing,CHETTA2010128,2010,no
+Formal Analysis of Android Application Behavior with Real-Time Maude,2677,2015,yes
+Formal Analysis of Android's Permission-Based Security Model,:000398352000002,2016,yes
+Formal based correctness check for ePASS-IoS 1.1 process models with integrated user support for error correcting,gert201420,2014,no
+Framework of performance evaluation for mobile process based on mobile ambient,7251,2004,yes
+Frameworks for validation of mobile software project performance,2012539,2012,yes
+Free mobile apps on depression for Indian users: A brief overview and critique,AR2017124,2017,no
+From bicycle to bites: Indoor vs. outdoor user testing methodologies of georeferenced mobile apps,lini2016369,2016,no
+FuzzerAPP:The Robustness Test of Application Component Communication in Android,ng2017338,2017,no
+Fuzzy constraint satisfaction approach for landmark recognition in mobile robotics,ro2006275,2006,no
+Generation of SDN policies for protecting android environments based on automata learning,nepf20181,2018,doubt
+Graph-aided Directed Testing of Android Applications for Checking Runtime Privacy Behaviours,g:2016:GDT:2896921.2896930,2016,doubt
+Graph-Based Logic Bit Slicing for Datapath-Aware Placement,ng:2017:GLB:3061639.3062254,2017,no
+Group centric networking: A new approach for wireless multi-hop networking,ERMAN2018160,2018,no
+"Guided, stochastic model-based GUI testing of android apps",017245,2017,yes
+GuideMe -- A Tourist Guide with a Recommender System and Social Interaction,NETS2014407,2014,no
+HEMD: a highly efficient random forest-based malware detection framework for Android,20183353,2018,yes
+Heredabilidad de Laflexibilidad: un Estudio Hecho con Hermanos Gemelos,AS199721,1997,no
+HF app to support self-care among community dwelling adults with HF: A feasibility study,TER201893,2018,no
+How to build vehicular ad-hoc networks on smartphones,ALLEROGIL2013996,2013,no
+HSC-IoT: A Hardware and Software Co-Verification Based Authentication Scheme for Internet of Things,sain2017109,2017,no
+Hybrid detection using permission analysis for android malware,o2015541,2015,yes
+Identifying android malicious repackaged applications by thread-grained system call sequences,2013340,2013,doubt
+"Identifying back doors, attack points, and surveillance mechanisms in iOS devices",IARSKI20143,2014,doubt
+Identifying threshold values of an open source software using Receiver Operating Characteristics curve (ROC),:000396659800003,2017,no
+Impact of fuzziness categorization on divide and conquer strategy for instance selection,faq20171007,2017,no
+Implementation of automated testing system for android applications based on dynamic taint propagation,2229,2014,yes
+Inference attack in Android Activity based on program fingerprint,G201992,2019,no
+Inferring the Detection Logic and Evaluating the Effectiveness of Android Anti-Virus Apps,:2016:IDL:2857705.2857719,2016,no
+Instance based security risk value estimation for Android applications,PIR201820,2018,yes
+Intent security testing: An approach to testing the intent-based vulnerability of android components,va2013355,2013,yes
+Intention to disclose personal information via mobile applications: A privacy calculus perspective,G2016531,2016,no
+Interactive System Testing: Beyond GUI Testing,ny:2018:IST:3220134.3220146,2018,doubt
+IVDroid: Static detection for input validation vulnerability in Android inter-component communication,g2015378,2015,doubt
+Leafactor: Improving Energy Efficiency of Android Apps via Automatic Refactoring,z:2017:LIE:3104086.3104127,2017,doubt
+Learning to prioritize GUI test cases for android laboratory programs,g2016,2016,no
+Leveraging ontologies and machine-learning techniques for malware analysis into Android permissions ecosystems,ARRO2018429,2018,doubt
+Limitations of Energy Expenditure Calculation Based on a Mobile Phone Accelerometer,5068,2017,no
+Linear SVM-Based Android Malware Detection for Reliable IoT Services,:000343508700001,2014,yes
+M-perm: A Lightweight Detector for Android Permission Gaps,ster:2017:MLD:3104086.3104135,2017,yes
+Machine learning based mobile malware detection using highly imbalanced network traffic,N2018346,2018,yes
+Machine learning-assisted signature and heuristic-based detection of malwares in Android devices,MAN2018828,2018,doubt
+MalDozer: Automatic framework for android malware detection using deep learning,BAB2018S48,2018,yes
+Malware detection method of android application based on simplification instructions,G201494,2014,yes
+Managing mobile security: How are we doing?,DE201012,2010,no
+MASON: Mobile autonomic security for network access controls,ZGERALD201314,2013,no
+MBotCS: A mobile botnet detection system based on machine learning,g2016274,2016,no
+Measuring Android App Repackaging Prevalence based on the Permissions of App,TOGI20161436,2016,doubt
+Measuring mobile phone energy consumption for 802.11 wireless networking,E2010593,2010,yes
+Measuring the Insecurity of Mobile Deep Links of Android,:000428763700056,2017,no
+Mining permission patterns for contrasting clean and malicious android applications,NSAMY2014122,2014,doubt
+Mitigation and risk factor analysis of android applications,RMA2018416,2018,doubt
+Mobile app security analysis with the MAVeriC static analysis,ando2014103,2014,yes
+Mobile application security for video streaming authentication and data integrity combining digital signature and watermarking techniques,ssa2007634,2007,no
+Mobile application testing --- Challenges and solution approach through automation,6451,2013,doubt
+Mobile application usability testing in quasi-real conditions-the synergy of using different methods,ys2018362,2018,no
+Mobile Application Web API Reconnaissance: Web-to-Mobile Inconsistencies {\&} Vulnerabilities,doza2018756,2018,yes
+Mobile applications software testing methodology,2012158,2012,doubt
+Mobile device penetration testing framework and platform for the mobile device security course,4881,2015,yes
+Mobile devices -- the most hostile environment for security?,SE201211,2012,doubt
+Mobile Farm for Software Testing,govoy:2018:MFS:3236112.3236117,2018,doubt
+Mobile GUI Testing Fragility: A Study on Open-Source Android Applications,7182,2018,yes
+Mobile malware detection through analysis of deviations in application network behavior,BTAI20141,2014,yes
+"Mobile Software Testing: Thoughts, Strategies, Challenges, and Experimental Study",:000381939800003,2016,doubt
+Mobile Test Automation Framework for a Multi-Language Application,:000337480900028,2014,doubt
+Mobile Testing,ler:2013:MT:2532780.2532813,2013,doubt
+MobileTest: A Tool Supporting Automatic Black Box Test for Software on Smart Mobile Devices,2007:MTS:1270230.1270261,2007,yes
+Model Checking for Mobile Android Malware Evolution,7989,2017,yes
+Model-based conformance testing for android,g20121,2012,yes
+Model-based static source code analysis of java programs with applications to android security,012322,2012,yes
+Modeling and Analyzing the Android Permission Framework using High Level Petri Nets,:000426842400026,2017,yes
+MORPHDROID: Fine-grained privacy verification,rara2015371,2015,yes
+"Multi-evaluation for inclusivity: Combining inspection, test, survey and life-size evaluation to assess the use of a mobile system for all",ian2011286,2011,doubt
+Multi-Process Runtime Verification for Android,6005,2017,yes
+Multi-tenant Verification-as-a-Service (VaaS) in a cloud,016122,2016,no
+Multivariate Testing of Native Mobile Applications,zmann:2014:MTN:2684103.2684119,2014,doubt
+Mutation operators for testing Android apps,G2017154,2017,doubt
+Network and device forensic analysis of Android social-messaging applications,NYCKY2015S77,2015,doubt
+NIVAnalyzer: A Tool for Automatically Detecting and Verifying Next-Intent Vulnerabilities in Android Apps,8006,2017,doubt
+"NOPA, Usability Testing of an Application to Help Patients During the Treatment of Infectious, and Chronic Diseases in Brazil",IEL20156388,2015,doubt
+Offline Mobile Security,7303,2018,no
+On Applying Experience Sampling Method to A/B Testing of Mobile Applications: A Case Study,:000364653500017,2015,no
+On building a cloud-based mobile testing infrastructure service system,201739,2017,doubt
+On building test automation system for mobile applications using GUI ripping,2016480,2016,yes
+On deterministic chaos in software reliability growth models,DANBAKHSH20161256,2016,no
+On robust malware classifiers by verifying unwanted behaviours,n2016326,2016,yes
+On the (in)security of mobile two-factor authentication,trienko2014365,2014,yes
+"On the accuracy, efficiency, and reusability of automated test oracles for android devices",2014957,2014,yes
+On the Best Sensor for Keystrokes Inference Attack on Android,AIQI2013989,2013,no
+On the effectiveness of scheduling fuzz testing,n2015841,2015,yes
+On the Feasibility of Automatic Malware Family Signature Generation,ng:2018:FAM:3203422.3203430,2018,no
+On the impact of code smells on the energy consumption of mobile applications,OMBA201943,2019,yes
+One-dimensional convolutional neural networks for Android malware detection,egawa201899,2018,yes
+Optimizing power consumption in multicore smartphones,016124,2016,no
+PAL: A pseudo assembly language for optimizing secure function evaluation in mobile devices,D201878,2018,doubt
+PATS: A Parallel GUI Testing Framework for Android Applications,2015210,2015,doubt
+Pattern based GUI testing for mobile applications,ta201466,2014,yes
+Performance analysis of mobile systems,ssi2005107,2005,yes
+Performance Analysis of Spotify{\textregistered} for Android with Model-Based Testing,ada2017,2017,no
+Performance Evaluation and Optimization for Android-Based Web Server,o2018246,2017,doubt
+Performance evaluation of online mobile application using Test My App,daraRajan20151148,2015,yes
+Performance of automation testing tools for android applications,aga2018534,2018,doubt
+Performance of malware classifier for android,m2015,2015,doubt
+Performance testing based on test-driven development for mobile applications,2009612,2009,yes
+Performance validation of mobile software architectures,ssi2002346,2002,doubt
+Permission based Android security: Issues and countermeasures,G2014205,2014,doubt
+Picking on the family: Disrupting android malware triage by forcing misclassification,LEJA2018113,2018,yes
+Pin it! Improving Android network security at runtime,ov2016297,2016,no
+PMC2O: Mobile cloudlet networking and performance analysis based on computation offloading,201786,2017,no
+PolEnA: Enforcing fine-grained permission policies in android,ta2017407,2017,no
+Potential Component Leaks in Android Apps: An Investigation into a New Feature Set for Malware Detection,015195,2015,yes
+Practical exploit generation for intent message vulnerabilities in android,lingani2015155,2015,yes
+"Practical, Formal Synthesis and Automatic Enforcement of Security Policies for Android",9768,2016,yes
+Preventing library spoofing on android,ze20151136,2015,no
+Prioritizing Test Cases for Memory Leaks in Android Applications,:000383055100004,2016,yes
+QRFence: A flexible and scalable QR link security detection framework for Android devices,G2018663,2018,yes
+Quality assurance of a mobile network measurement testbed through systematic software testing,l20163,2016,doubt
+R-Droid: Leveraging android app analysis with static slice optimization,kes2016129,2016,no
+Ransomware Inside Out,4627,2016,no
+Ransomware Steals Your Phone. Formal Methods Rescue It,:000379297600014,2016,no
+Reliability Testing of a Mobile App Quality Assessment Tool,ILIPPO2016S42,2016,doubt
+Reliable mobile application modeling based on open API,g2009168,2009,doubt
+Reprint of ``You can't touch this: Consumer-centric android application repackaging detection'',ULIAN2018537,2018,yes
+Research and Implementation of Mobile Application Security Detection Combining Static and Dynamic,7376,2018,yes
+Research on non-authorized privilege escalation detection of android applications,g2016563,2016,no
+Research on software security and compatibility test for mobile application,2014140,2014,yes
+Responsiveness Analysis Tool for Android Application,kosit:2014:RAT:2661694.2661695,2014,doubt
+"Revenue models, in-app purchase, and the app performance: Evidence from Apple's App Store and Google Play",A2016173,2016,no
+Reviewing the data security and privacy policies of mobile apps for depression,UGHLIN2018,2018,no
+Risk analysis of Android applications: A user-centric solution,I2018505,2018,no
+RobotDroid-A keyword-driven testing tool for android applications,20151865,2015,doubt
+RoppDroid: Robust permission re-delegation prevention in Android inter-component communication,201798,2017,no
+Runtime verification and enforcement for android applications with RV-droid,cone201388,2013,no
+Runtime verification meets android security,er2012174,2012,doubt
+"SafeCandy: System for security, analysis and validation in Android",:000420076400006,2015,yes
+Safety detection method of Android App based on Drozer,:000450238300042,2018,yes
+SAM: The static analysis module of the MAVERIC mobile app security verification platform,ando2015225,2015,yes
+SCREDENT: Scalable Real-time Anomalies Detection and Notification of Targeted Malware in Mobile Devices,EIL20161219,2016,no
+"Scripted GUI Testing of Android Apps: A Study on Diffusion, Evolution and Fragility",pola:2017:SGT:3127005.3127008,2017,doubt
+SecureDroid: Enhancing Security of Machine Learning-based Detection Against Adversarial Android Malware Attacks,n:2017:SES:3134600.3134636,2017,doubt
+Securing android applications via edge assistant third-party library detection,G2019257,2019,doubt
+Securing Android In-app Billing service against automated attacks,2016259,2016,no
+Security analysis and vulnerability detection of gesture-based lock in android applications,g2016410,2016,yes
+Security analysis of bluetooth low energy based smart wristbands,ng2017421,2017,no
+Security analysis of mobile crowd sensing applications,H2018,2018,yes
+Security analysis testing for secure instant messaging in Android with study case: Telegram,9630,2016,yes
+Security Checking Experiments with Mobile Services,4938,2018,yes
+Security considerations related to the use of mobile devices in the operation of critical infrastructures,ANDO2014247,2014,no
+Security quality assurance through penetration testing,0115,2016,yes
+SECURITY REQUIREMENTS VALIDATION FOR MOBILE APPS: A SYSTEMATIC LITERATURE REVIEW,:000218649700015,2015,no
+Security testing for Android mHealth apps,rr2015,2015,yes
+Security testing framework for a novel mobile wallet ecosystem,tos2018153,2018,yes
+Security testing of the communication among Android applications,ncini201357,2013,yes
+Security Vulnerabilities Detection Using Model Inference for Applications and Security Protocols,4460,2011,yes
+SENTINEL: GENERATING GUI TESTS for ANDROID SENSOR LEAKS,01827,2018,yes
+Signature-based detection of privilege-escalation attacks on Android,5565,2016,yes
+SimTester: A Controllable and Observable Testing Framework for Embedded Systems,2012:SCO:2151024.2151034,2012,doubt
+Simulating user interactions: A model and tool for semi-realistic load testing of social app backend web services,ne2017235,2017,no
+Simulation-based investigation of energy management concepts for fuel cell -- battery -- hybrid energy storage systems in mobile applications,ERS2018295,2018,doubt
+Software quality testing model for mobile application,2014192,2014,no
+Static Analysis for Independent App Developers,:000348907400048,2014,doubt
+Static analysis of android apps: A systematic literature review,01767,2017,yes
+Static Detection of Energy Defect Patterns in Android Applications,2016:SDE:2892208.2892218,2016,doubt
+Study on signature verification process for the firmware of an android platform,ng2019540,2019,no
+SUPR-Qm: A Questionnaire to Measure the Mobile App User Experience,ro:2017:SQM:3173069.3173072,2017,no
+Survey of security for Android smart terminal,016169,2016,no
+Systematic Execution of Android Test Suites in Adverse Conditions,msen:2015:SEA:2771783.2771786,2015,doubt
+Systematic literature review of mobile application development and testing effort estimation,R2018,2018,no
+Systematic testing for resource leaks in Android applications,2013411,2013,yes
+Test based model transformation framework for mobile application,011,2011,yes
+Test coverage optimization for large code problems,201216,2012,no
+Testing android applications using multi-objective evolutionary algorithms with a stopping criteria,ella2018308,2018,no
+Testing driven development of mobile applications using automatic bug management systems,agoza2018151,2018,no
+Testing methods for the efficiency of modern steganography solutions for mobile platforms,erzan201630,2016,doubt
+Testing the usability of smartphone surface gestures on different sizes of smartphones by different age groups of users,I2017103,2017,doubt
+The design and implement of the cross-platform mobile automated testing framework,g2017182,2016,doubt
+The energy impact of security mechanisms in modern mobile devices,IGLIONE201211,2012,no
+The mobile app usability inspection (MAUi) framework as a guide for minimal viable product (MVP) testing in lean development cycle,ng20161,2016,yes
+The mobile sleep lab app: An open-source framework for mobile sleep assessment based on consumer-grade wearable devices,gdorf20188,2018,doubt
+The state of ransomware. Trends and mitigation techniques,0056,2017,yes
+The Usability of Mobile Applications for Pre-schoolers,OOD20151818,2015,no
+Toward a more dependable hybrid analysis of android malware using aspect-oriented programming,GOMBE2018235,2018,yes
+Towards an efficient and Energy-Aware mobile big health data architecture,AZ2018137,2018,doubt
+Towards analyzing the input validation vulnerabilities associated with android system services,2015361,2015,no
+Towards black box testing of android apps,uniarovich2015501,2015,doubt
+Towards energy aware object-oriented development of android applications,AR201928,2019,yes
+Towards formal analysis of the permission-based security model for Android,n200987,2009,yes
+Towards formal model-based analysis and testing of Android's security mechanisms,arte20171,2017,yes
+Towards Model Checking Android Applications,:000435335100005,2018,yes
+Trust Evaluation in Mobile Devices: An Empirical Study,5261,2015,yes
+"Twinkle twinkle little DroidDream, How I wonder what you are?",9579,2017,yes
+Two-phases detection scheme: Detecting android malware in android markets,019389,2019,yes
+Understanding and defending the binder attack surface in android,g2016398,2016,doubt
+Understanding the test automation culture of app developers,hhar2015,2015,no
+Unsupervised Detection of Abnormal Moments for Usability Testing of Mobile Apps,2016:UDA:2851581.2892404,2016,doubt
+"Upgrading your Android, elevating my malware: Privilege escalation through mobile OS updating",g2014393,2014,yes
+Usability assessment of a mobile app for art therapy,TSON20151,2015,no
+Usability Evaluation Framework for Mobile Apps Using Code Analysis,hur:2018:UEF:3210459.3210480,2018,doubt
+Usability evaluation model for mobile banking applications interface: Model evaluation process using experts' panel,bakar201653,2016,yes
+Usability evaluation of adaptive features in smartphones,AL20172185,2017,doubt
+Usability Testing of Early Warning Mobile Applications with Eye Tracking,:000366872700026,2015,no
+Usability testing: a review of some methodological and technical aspects of the method,TIEN2010e18,2010,yes
+User experience {\&} usability for mobile geo-referenced apps. A case study applied to cultural heritage field,lini2014652,2014,no
+User experience evaluation for user interface redesign: A case study on a bike sharing application,te2017614,2017,no
+User Experience of Mobile Application's Interface: Measurement Development,g:2018:UEM:3227696.3227698,2018,doubt
+User interface usability studies on different operating systems,:000327761500132,2013,yes
+Using Combinatorial Approaches for Testing Mobile Applications,5641,2014,yes
+Using network traffic to verify mobile device forensic artifacts,3091,2017,no
+Verifying Android's Permission Model,:000366212700028,2015,no
+Vision: Automated security validation of mobile apps at app markets,bert201121,2011,yes
+VulHunter: Toward discovering vulnerabilities in android applications,n201544,2015,doubt
+Vulnerability Assessment of OAuth Implementations in Android Applications,g:2015:VAO:2818000.2818024,2015,doubt
+Vulnerability Detection of Android System in Fuzzing Cloud,0256,2013,yes
+What Are Software Engineers Asking About Android Testing on Stack Overflow?,lanes:2017:SEA:3131151.3131157,2017,no
+Where is the weakest link? A study on security discrepancies between android apps and their website counterparts,vi2017100,2017,no
+Where-How-What Am I Feeling: User Context Logging in Automated Usability Tests for Mobile Software,:000389470200002,2016,yes
+Why energy matters? Profiling energy consumption of mobile crowdsensing data collection frameworks,ASONI2018193,2018,yes
+Your life in your hands: the security issues with healthcare apps,SFIELDDEVINE201614,2016,no
+Your WiFi is leaking: What do your mobile apps gossip about you?,INSON2018546,2018,yes
+ZIPT: Zero-integration performance testing of mobile app designs,a2017727,2017,yes
+Vulnerability Detection on Mobile Applications Using State Machine Inference,DerLee20181,2018,yes
