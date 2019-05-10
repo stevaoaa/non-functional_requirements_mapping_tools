@@ -170,7 +170,7 @@ def merge_results(bibtex_files, judges, debug):
 				#get one bib and merge the results
 				one_bib = result_c.pop(-2)
 				bib_token = "bytitledomenico = "
-				token_to_be_added = "\n  bytitlemisa = {{{}}},\n  bytitledela = {{{}}},".format(judgment[0], judgment[1])
+				token_to_be_added = "\n  bytitlemisael = {{{}}},\n  bytitledela = {{{}}},".format(judgment[0], judgment[1])
 
 				#merge the results into one_bib
 				one_bib = add_token_to_bib(one_bib, bib_token, token_to_be_added)					
