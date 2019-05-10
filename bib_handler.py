@@ -173,7 +173,7 @@ def merge_results(bibtex_files, judges, debug):
 				token_to_be_added = "\n  bytitlemisa = {{{}}},\n  bytitledela = {{{}}},".format(judgment[0], judgment[1])
 
 				#merge the results into one_bib
-				add_token_to_bib(one_bib, bib_token, token_to_be_added)					
+				one_bib = add_token_to_bib(one_bib, bib_token, token_to_be_added)					
 
 				#decisions
 				no    = judgment.count('no')
