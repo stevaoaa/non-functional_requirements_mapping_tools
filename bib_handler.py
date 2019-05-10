@@ -7,6 +7,28 @@ import re
 import csv
 
 
+"""
+	given a bib, find the bibtex_token then add the token_to_be_added and return the new_bib
+"""
+def add_token_to_bib(bib, bib_token, token_to_be_added):
+	new_bib = ""
+
+	start_token = bib.find(bib_token)
+	end_token = bib[start_token:].find("},")
+		
+	if start_token == -1:
+		print("W: Invalid token. Exiting")
+		sys.exit(-1)
+	else:
+		
+		index = start_token + end_token
+
+		new_bib = bib[: index + 2]
+		new_bib = new_bib + token_to_be_added	
+		new_bib = new_bib + bib[index + 2:]
+
+	return new_bib
+
 def get_bibtex_entry(bibtex_str, judger, debug):
 	
 	#match pattern of a bibtex entry start
@@ -114,7 +136,7 @@ def get_all_bibtex_entries(bibtex_str, judger, result_file, debug):
 def merge_results(bibtex_files, judges, debug):
 	
 	final_results = []
-	final_bibtex  = ''
+	final_bibtex  = ""
 	
 	bib_str_a = bibtex_files[0]
 	bib_str_b = bibtex_files[1]
@@ -144,6 +166,15 @@ def merge_results(bibtex_files, judges, debug):
 					print("Domenico: {}".format(judgment[2]))
 					raw_input()
 
+
+				#get one bib and merge the results
+				one_bib = result_c.pop(-2)
+				bib_token = "bytitledomenico = "
+				token_to_be_added = "\n  bytitlemisa = {{{}}},\n  bytitledela = {{{}}},".format(judgment[0], judgment[1])
+
+				#merge the results into one_bib
+				add_token_to_bib(one_bib, bib_token, token_to_be_added)					
+
 				#decisions
 				no    = judgment.count('no')
 				yes   = judgment.count('yes')
@@ -153,7 +184,7 @@ def merge_results(bibtex_files, judges, debug):
 				if no < 2:
 					
 					#extract the bibtex from the results before save results into the list that will turn the csv file
-					final_bibtex += '\n\n' + result_c.pop(-2)
+					final_bibtex += '\n\n' + one_bib
 
 					#save the results into the final list
 					final_results.append(result_c)
