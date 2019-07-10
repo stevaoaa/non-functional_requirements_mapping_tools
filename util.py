@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import re
+from fuzzywuzzy import fuzz
 
 
 def get_a_bib(bibtex_str, debug = False):
@@ -69,13 +70,8 @@ def get_all_bibs(bibtex_str, debug = False):
 
     return all_results, unique_results
 
-if __name__ == "__main__":
-    
-    print('I: Relax, this process can take a while..')
 
-    #files
-    target = './third_selection/old_science_direct.bib'
-    bib_result =  './third_selection/new_science_direct.bib'
+def remove_duplicates(target, bib_result):
     
     #open the targert file
     with open(target, 'r') as f:
@@ -85,10 +81,57 @@ if __name__ == "__main__":
 
         #process the data
         all_bib, unique_bib = get_all_bibs(bibtex_str, False)
-    
-   
+     
     #save unique bibs into a new file
     with open(bib_result, 'w') as bib_result_file:
         for bib in unique_bib:
+            bib += '\n'
+            bib_result_file.write(bib)
+
+#check whether a bib entry is contained into another bib file. Need to improve cheking only by title
+def compare_bibfile(b1, b2):
+
+    found = []
+    missing = []
+
+    #open the targert file
+    with open(b1, 'r') as f1, open(b2, 'r') as f2:
+
+        #convert into string
+        b1_str = f1.read()
+        b2_str = f2.read()
+
+        a1, u1 = get_all_bibs(b1_str, False)
+        a2, u2 = get_all_bibs(b2_str, False)
+
+        #for every item in the papers accepted
+        for item in a2:
+
+            #will check the similarity with all itens in a1
+            for item2 in a1:
+
+                #check the similarity
+                ratio = fuzz.ratio(item,item2)
+                if ratio > 70:
+                    found.append(item)
+
+        #what is missing?        
+        missing = list(set(a2)-set(found))
+
+        print('Number of missing items: {}'.format(len(missing)))
+    
+    return missing
+
+if __name__ == "__main__":
+    
+    bib1 = './third_selection/new_MergePapers.bib'
+    bib2 = './third_selection/papers_accept.bib'
+    result = './third_selection/missing.bib'
+
+    r = compare_bibfile(bib1, bib2)
+
+    #save unique bibs into a new file
+    with open(result, 'w') as bib_result_file:
+        for bib in r:
             bib += '\n'
             bib_result_file.write(bib)
