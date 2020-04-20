@@ -6,6 +6,8 @@ import sys
 import re
 import csv
 
+import extra
+
 
 """
 	given a bib, find the bibtex_token then add the token_to_be_added and return the new_bib
@@ -34,7 +36,7 @@ def get_bibtex_entry(bibtex_str, judger, debug):
 	#match pattern of a bibtex entry start
 	regex_start = '@.*{'
 
-	#match pattern of a bibtex entry start
+	#match pattern of a bibtex entry end
 	regex_end   = ',.*\n}.*'
 	
 
@@ -53,7 +55,7 @@ def get_bibtex_entry(bibtex_str, judger, debug):
 
 
 	#regex to find exact position
-	begin_title_regex = 'title.*= {{'
+	begin_title_regex = 'title.*= {'
 	begin_year_regex  = 'year.*= {'	
 	begin_decision_regex = judger + '.*= {'
 
@@ -61,7 +63,7 @@ def get_bibtex_entry(bibtex_str, judger, debug):
 	try:
 		#define the data to extract
 		begin_title = re.search(begin_title_regex, entry).span()[1]
-		end_title   = entry.find('}},', begin_title)
+		end_title   = entry.find('},', begin_title)
 		
 		begin_decision = re.search(begin_decision_regex, entry).span()[1]
 		end_decision   = entry.find('},', begin_decision)
@@ -98,7 +100,7 @@ def get_bibtex_entry(bibtex_str, judger, debug):
 		print("Year     : ", year)
 		print("Paper id : ", paper_id)
 		print("Decision : ", decision)
-		raw_input()
+		input()
 		
 		os.system('clear')
 
@@ -164,7 +166,7 @@ def merge_results(bibtex_files, judges, debug):
 					print("Stevao:   {}".format(judgment[0]))
 					print("Misael:   {}".format(judgment[1]))
 					print("Domenico: {}".format(judgment[2]))
-					raw_input()
+					input()
 
 
 				#get one bib and merge the results
@@ -234,13 +236,14 @@ def menu():
 
 	#possible methods
 	print("1 - Create CSV from a bib file")
-	print("2 - Merge resuts according to selection criteria")	
+	print("2 - Merge resuts according to selection criteria")
+	print("3 - Check difference between two bibs")		
 
 	#read the option
 	option = int(input("Chose an method: "))
 	
 	#execute according to the option
-	if option not in [1, 2]:
+	if option not in [1, 2, 3]:
 		print("W: Invalid option!")
 		sys.exit(-1)
 
@@ -311,17 +314,29 @@ if __name__ == '__main__':
 
 	if option == 1:
 
-		with open(bibtex_files[author], 'r') as f, open(results_files[author], 'w') as result_file:
+		with open(bibtex_files[author], 'r', encoding="utf-8") as f, open(results_files[author], 'w', encoding="utf-8") as result_file:
 
 			bibtex_str = f.read()
 			get_all_bibtex_entries(bibtex_str, judges[author], result_file, debug)
 
 	if option == 2:
 
-		with open(bibtex_files[0], 'r') as bib_0, open(bibtex_files[1], 'r') as bib_1, open(bibtex_files[2], 'r') as bib_2:
+		with open(bibtex_files[0], 'r', encoding="utf-8") as bib_0, open(bibtex_files[1], 'r', encoding="utf-8") as bib_1, open(bibtex_files[2], 'r', encoding="utf-8") as bib_2:
 
 			#convert the files into string and add to a list
 			bibs = [bib_0.read(), bib_1.read(), bib_2.read()]
 
 			#build the merged result
 			merge_results(bibs, judges, debug)
+
+	if option == 3:
+
+		bibtex_files  = ['old_search.bib',  'new_search.bib']
+
+		with open(bibtex_files[0], 'r', encoding="utf-8") as bib_old, open(bibtex_files[1], 'r', encoding="utf-8") as bib_new:
+
+			#convert the files into string and add to a list
+			bibs = [bib_old.read(), bib_new.read()]
+
+			#build the merged result
+			extra.compare_results(bibs, debug)
